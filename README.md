@@ -53,6 +53,12 @@ For the deploy provider we are going to use Amazon S3, we will create an S3 buck
 1. Head over to the S3 service.
 2. Click Create bucket.
 3. Name it something unique like `my-react-cicd-demo`
+4. Create a new service role with these permissions:
+
+CloudWatchLogsFullAccess
+S3FullAccess (if deploying to S3)
+CodeBuildBasePolicy
+
 
 ![Image](https://github.com/user-attachments/assets/5e772a9f-c278-499c-975d-b1590f962e50)
 
