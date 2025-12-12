@@ -8,7 +8,7 @@
     </a>
   <br />
 
-<h3 align="center">Deploying a React app using EC2 and Terraform</h3>
+<h3 align="center">Deploying a React app using GitHub, CodePipeline and S3</h3>
 
    <div align="center">
      Build this hands-on demo step by step with my detailed tutorial on <a href="http://www.youtube.com/@julienmuke/videos" target="_blank"><b>Julien Muke</b></a> YouTube. Feel free to subscribe 🔔!
